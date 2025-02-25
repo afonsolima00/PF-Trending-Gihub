@@ -1,0 +1,11 @@
+name,url,summary
+tensorflow,https://github.com/tensorflow/tensorflow," TensorFlow is an end-to-end open source platform for machine learning . It has a comprehensive, flexible ecosystem of tools and"
+transformers,https://github.com/huggingface/transformers," The Hugging Face Transformers Library is licensed under the Apache License, Version 2.0 (the ""License"") You may not use this"
+scikit-learn,https://github.com/scikit-learn/scikit-learn, -*-- mode: rst . -*:Azure |Codecov | |Nightly wheels| |Circle
+gradio,https://github.com/gradio-app/gradio, The user-friendly app is available on the website of Product Hunt . The app is a free-form version of a version of the
+netron,https://github.com/lutzroeder/netron," Netron is a viewer for neural network, deep learning and machine learning models . It supports ONNX, TensorFlow Lite,"
+Paddle,https://github.com/PaddlePaddle/Paddle," PaddlePaddle, as the first independent R&D deep learning platform in China, has been officially open-sourced to professional"
+best-of-ml-python,https://github.com/ml-tooling/best-of-ml-python, This curated list contains 920 awesome open-source projects with a total of 4.8M stars grouped into 34 categories . All projects are
+mlflow,https://github.com/mlflow/mlflow," MLflow is an open-source platform, purpose-built to assist machine learning practitioners and teams in handling the complexities of the machine learning"
+rasa,https://github.com/RasaHQ/rasa, Rasa is an open source machine learning framework to automate text and voice-based conversa . We're migrating issues for Rasa Open
+onnx,https://github.com/onnx/onnx," ONNX provides an open source format for AI models, both deep learning and traditional ML . It defines an extensible computation graph model"

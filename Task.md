@@ -1,0 +1,3 @@
+# Description
+
+Build a small Python script that fetches trending open-source GitHub repositories (in any category you find interesting), uses a basic AI or summarization library (like NLTK or Hugging Face) to produce a one-line summary of each repo’s main purpose, and then stores these summaries in a CSV or JSON file for easy reference. This leverages your coding skills, helps you discover potentially valuable projects you could collaborate on or monetize, and yields a clear, verifiable deliverable without duplicating past tasks
